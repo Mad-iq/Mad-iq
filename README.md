@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Computer Science student at KIIT  <br>💻 I love building web apps using the MERN stack. <br>🧠 Currently learning: Docker and AWS <br>🌱 Exploring: AI/ML and LLMs. <br>📊 Working on: Employee Attrition Management App  <br>📫 Reach me at: debashritamandal852@gmail.com
+🎓 I'm a Computer Science student @ KIIT UNIVERSITY <br>💻 I love building web apps using the MERN stack. <br>🧠 Currently learning: Docker and AWS <br>🌱 Exploring: AI/ML and LLMs. <br>📊 Working on: Employee Attrition Management App  <br>📫 Reach me at: debashritamandal852@gmail.com
 
 
 # 💻 Tech Stack:
